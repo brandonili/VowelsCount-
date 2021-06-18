@@ -1,4 +1,4 @@
-// Hi, my name is Brandon Ilievski and i developed this program to count all vowles in a txt file and prints
+// Hi, my name is Brandon and I developed this program to count all vowles in a txt file and prints
 // how many vowles there are in the command terminal. 
 #include <iostream>
 #include <string>
